@@ -26,7 +26,7 @@ Funkciók:
 
 Felhasználók
 
-	Admin: admin jogú felhasználó a saját és user jogu felhasználók költéseit is látja. hozzá tud adni költést és jövedelmet,eltud 			fogadni kérvényeket
+	Admin: admin jogú felhasználó a saját és user jogú felhasználók költéseit is látja. hozzá tud adni tranzakciót és jövedelmet,és el tud fogadni kérvényeket a user felhasználóktól.
 
 	User: csak a saját költéseit látja. Hozzá tud adni költést, és tud kérvényezni az admin jogú tagtól pénzt.
 
