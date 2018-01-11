@@ -14,8 +14,8 @@ Funkciók:
 
 	Bejelentkezés:  email cím és jelszó megadásával történik.
 
-	Kijelentkezés: a felhasználót a rendszer nem engedi a loginon és a regisztráción kívül
-		 beengedni
+	Kijelentkezés: a felhasználót a rendszer nem engedi a loginon és a regisztráción kívül beengedni.
+	
 	Tranzakciók megtekintése:A user és az admin is megtudja tekinteni korábbi költéseit és részleteit.
 
 	Tranzakció hozzáadása: A user és az admin felhasználó is hozzá tud adni vagy venni pénzt a számlájához.
