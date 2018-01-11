@@ -1,0 +1,16 @@
+<html>
+  <h2>Upload Payment</h2>
+<form #uploadForm="ngForm" (ngSubmit)="submit(uploadForm)" (reset)="reset()">
+    
+      <div class="form-group">
+        <mat-form-field>
+          <input matInput type="text" aria-describedby="uploadHelp" placeholder="Enter payment" name="payment" [(ngModel)]="model.payment" #title="ngModel">
+            <mat-error *ngIf="model.invalid && (model.dirty || model.touched) && model.errors.required">
+                payment is <strong>required</strong>
+            </mat-error>
+        </mat-form-field>
+      </div>    
+      <button type="submit" mat-raised-button color="primary" [disabled]="!uploadForm.valid">Upload money</button>
+      <!-- <button type="reset" mat-button>Cancel</button> -->
+    </form>
+  </html>

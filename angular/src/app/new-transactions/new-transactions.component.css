@@ -1,0 +1,17 @@
+body{
+    opacity:1.0;
+    text-align: center;
+}
+
+html{
+    font-family: sans-serif;
+    opacity:1.0;
+}
+
+.mat-toolbar{
+  opacity:1.0;
+}
+
+.mat-menu{
+    text-align: center;
+}
