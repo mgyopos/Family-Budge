@@ -1,0 +1,16 @@
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\service\RequestService.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\controller\TransactionController.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\repository\TransactionRepository.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\entity\User.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\entity\Request.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\entity\Transaction.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\service\TransactionService.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\controller\RequestController.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\controller\UserController.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\config\AuthorizationInterceptor.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\repository\RequestRepository.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\service\UserService.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\annotation\Role.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\FamilyBudge.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\repository\UserRepository.java
+G:\Programming\Alkalmzások fejlesztése\FamilyBudge\src\main\java\familybudge\service\UserNotValidException.java
