@@ -6,7 +6,20 @@ Rövid Ismertető: A Family Bridge egy olyan alkalmazás, ami abban segít a csa
 
 A fejlesztői környezet és eszközök bemutatása:
 
-A project a NetBeans nevű fejlesztői környezetben készült a Maven Project, mely egy olyan fejlesztői eszköz, amivel könyen lehetelhasználni más modulokat/plug-in-eket és leszedi ehez a szükséges dependencyket(függőségeket). Valamint a Spring Boot felhasználásával, mely egy olyan eszköz melyel könnyen és gyorsan lehet prototipusokat létrehozni. Továbbá felhasználtam a h2 adatbázis motort is a projectben, mely Java SQL adatbázist vezényel, valamint a Lombok nevű plug-int aminek köszönhetőleg nem kell gettereket írni, valamint összehasonlító(equals) metódusokat.
+A backend megvalósításához a következő technológiákat, modelleket használtuk:
+	Java Spring Boot
+	MVC modell
+	REST API
+	authorizált végpontok
+	h2 adatbáziskezelő rendszer
+	GitHub, Git
+	Fejlesztői környezet: NetBeans
+	
+A frontend megvalósításához a következő technológiákat, modelleket használtuk:
+	Angular 5, TypeScript nyelvi alapon
+	Angular Material: design komponensek
+	Fejlesztői környezet: Visual Studio Code
+	
 
 Funkciók:
 
