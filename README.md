@@ -31,3 +31,9 @@ Felhasználók
 	User: csak a saját költéseit látja. Hozzá tud adni költést, és tud kérvényezni az admin jogú tagtól pénzt.
 
 	Guest: Csak a login és a register oldal érhető el neki
+	
+	
+Adatbázis kapcsolatok
+
+![alt text](https://github.com/mgyopos/Family-Budge/blob/master/asd.jpg)
+
