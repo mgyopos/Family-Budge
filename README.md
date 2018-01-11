@@ -4,7 +4,7 @@ Családi Pénztárca
 
 Rövid Ismertető: A Family Bridge egy olyan alkalmazás, ami abban segít a családoknak, hogy a szülők nyomon tudják követetni a költéseiket illetve gyerekeik költését, és Az admin jogú felhasználó a saját és user jogú felhasználók költéseit is látja, a user csak a sajátját.
 
-(Jelenleg az egyetlen admin jogú felhasználó a   username: admin password: a ,adatokkal tud bejelentkezni. 
+(A project félkész állapotban van. Jelenleg az egyetlen admin jogú felhasználó a   username: admin password: a ,adatokkal tud bejelentkezni. 
 Az angular projectből csak a node modulok hiányoznak, azon kívül mindent feltöltöttem.)
 
 A fejlesztői környezet és eszközök bemutatása:
