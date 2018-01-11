@@ -7,6 +7,7 @@ Rövid Ismertető: A Family Bridge egy olyan alkalmazás, ami abban segít a csa
 A fejlesztői környezet és eszközök bemutatása:
 
 A backend megvalósításához a következő technológiákat, modelleket használtuk:
+
 	Java Spring Boot
 	MVC modell
 	REST API
@@ -16,6 +17,7 @@ A backend megvalósításához a következő technológiákat, modelleket haszn�
 	Fejlesztői környezet: NetBeans
 	
 A frontend megvalósításához a következő technológiákat, modelleket használtuk:
+
 	Angular 5, TypeScript nyelvi alapon
 	Angular Material: design komponensek
 	Fejlesztői környezet: Visual Studio Code
